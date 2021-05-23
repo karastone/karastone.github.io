@@ -3,7 +3,7 @@
 
 body {
   font-family: 'Source Sans Pro' sans-serif;
-  font-size: 1.15rem;
+  font-size: 1.11rem;
 }
 
 .section {
@@ -16,11 +16,11 @@ p {
 }
 
 a {
-  color: #2f08ff;
+  color: #ac3da2;
 }
 
 a:hover {
-  color: salmon;
+  color: rgb(114, 250, 166);
 }
 
 img {
@@ -41,8 +41,8 @@ img {
 }
 
 h1 {
-  border-bottom: 1px solid rgba(82, 44, 252, .8);
-  color: rgba(82, 44, 252, .8);
+  border-bottom: 1px solid rgba(29, 117, 48, 0.8);
+  color: rgba(47, 136, 102, 0.8);
   font-size: 1.8rem;
   font-weight: 500;
   margin: 2rem 0;
@@ -50,7 +50,7 @@ h1 {
 }
 
 h2 {
-  color: rgba(250, 128, 114, 0.9);
+  color: rgba(250, 114, 189, 0.9);
   font-size: 1.5rem;
   font-weight: 500;
   margin: 2rem 0 .35rem 0;
@@ -76,7 +76,7 @@ nav li {
 }
 
 nav a {
-  color: rgba(102, 97, 127, .95);
+  color: rgba(240, 140, 187, 0.95);
   text-decoration: none;
   font-size: 1.2rem;
   transition: opacity 150ms ease-in-out;
@@ -103,7 +103,7 @@ nav a:hover {
 
 footer {
   padding: 3rem 0 3rem 0;
-  background-color: rgba(245, 243, 251, .9);
+  background-color: rgba(170, 151, 226, 0.9);
   text-align: center;
   width: 100%;
 }
